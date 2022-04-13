@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://gifer.com/embed/EBcD" width="400" />
+  <img src="https://gifer.com/embed/EBcD.gif" width="400" />
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/luan-cont/">
@@ -16,12 +16,12 @@
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=LuanContarin&style=flat-square&color=blue" alt="Prof Badge" />
-</div>
 
-<h1>
-  Hey! I'm Luan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <h1>
+    Hey! I'm Luan
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
 ---
 
