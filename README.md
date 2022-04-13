@@ -1,22 +1,23 @@
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69tumblr_onxkyoloha1w05w8zo1_500.gifv" width="400" />
-</div>
+  <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69tumblr_onxkyoloha1w05w8zo1_500.gifv" width="200" />
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/luan-cont/">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/luan-cont/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badgelogo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
+    </a>
 
-  <a href="https://api.whatsapp.com/send?phone=5511942615059">
+    <a href="https://api.whatsapp.com/send?phone=5511942615059">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badgelogo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
-  </a>
+    </a>
 
-  <a href="mailto:luan.silvacontarin@gmail.com">
+    <a href="mailto:luan.silvacontarin@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmaillogoColor=white" alt="Gmail Badge" />
-  </a>
-</div>
+    </a>
 
-<img src="https://komarev.com/ghpvc/?username=LuanContarin&style=flat-square&color=blue" alt="Prof Badge" />
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=LuanContarin&style=flat-square&color=blue" alt="Prof Badge" />
+</div>
 
 <h1>
   Hey! I'm Luan
@@ -39,8 +40,12 @@
 - :zap: My hobbies are watching anime/reading manga and playing video games.
 
 <div align="center">
-    <a href="https://github.com/LuanContarin">
+  <a href="https://github.com/LuanContarin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanContarin&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanContarin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
+  </a>
 </div>
+
+---
+
+### Technologies :
