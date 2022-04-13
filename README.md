@@ -46,3 +46,7 @@
 ---
 
 ### Technologies :
+
+<div>
+  <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" title="Git" **alt="Git"/>
+</div>
