@@ -16,16 +16,20 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=LuanContarin&style=flat-square&color=blue"alt="Prof Badge" />
+<img src="https://komarev.com/ghpvc/?username=LuanContarin&style=flat-square&color=blue" alt="Prof Badge" />
 
 <h1>
   Hey! I'm Luan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/02/5f/07/025f077d792552112c069238b76f3bac.png" width="600" height="300"/>
 </div>
+
+---
 
 ### About Me :
 
@@ -33,3 +37,10 @@
 - :mortar_board: I'm currently taking a Computer Science course at University Padre Anchieta.
 - :rocket: Currently working at CIJUN as an Software Developer intern.
 - :zap: My hobbies are watching anime/reading manga and playing video games.
+
+<div align="center">
+    <a href="https://github.com/LuanContarin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanContarin&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanContarin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
