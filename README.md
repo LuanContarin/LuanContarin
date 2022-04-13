@@ -52,6 +52,7 @@
   <img src="https://icongr.am/devicon/csharp-original.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
   <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
   <img src="https://icongr.am/devicon/html5-original.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
+  <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
   <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
 </div>
