@@ -34,7 +34,7 @@
 - :earth_americas: Name's Luan Contarin, a programmer from Jundiaí, SP - Brazil.
 - :mortar_board: I'm currently taking a Computer Science course at University Padre Anchieta.
 - :rocket: Currently working at CIJUN as an Software Developer intern.
-- :zap: My hobbies are watching anime/reading manga and playing video games.
+- :zap: My hobbies are watching animes/video games and learning programming.
 
 <div align="center">
   <a href="https://github.com/LuanContarin">
@@ -48,11 +48,11 @@
 ### Technologies :
 
 <div>
-  <img src="https://icongr.am/devicon/angularjs-original.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/csharp-original.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/html5-original.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor" title="Git" **alt="Git"/>
+  <img src="https://icongr.am/devicon/angularjs-original.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
+  <img src="https://icongr.am/devicon/csharp-original.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
+  <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
+  <img src="https://icongr.am/devicon/html5-original.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
+  <img src="https://icongr.am/devicon/css3-original.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
+  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
 </div>
