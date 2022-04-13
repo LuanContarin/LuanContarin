@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://gifer.com/embed/EBcD.gif" width="400" />
+<div align="center">
+  <img src="https://gifer.com/embed/EBcD" width="400" />
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/luan-cont/">
@@ -22,8 +22,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-
----
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/02/5f/07/025f077d792552112c069238b76f3bac.png" width="550" height="300"/>
