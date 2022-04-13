@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e5/7b/21/e57b217c06a9e1440cb14b3fe17b3d0c.gif" width="400" />
+  <img src="https://i.pinimg.com/originals/e5/7b/21/e57b217c06a9e1440cb14b3fe17b3d0c.gif" width="350" />
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/luan-cont/">
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/02/5f/07/025f077d792552112c069238b76f3bac.png" width="550" height="300"/>
+  <img src="https://i.pinimg.com/originals/02/5f/07/025f077d792552112c069238b76f3bac.png" width="550" height="310"/>
 </div>
 
 ---
