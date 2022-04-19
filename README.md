@@ -31,7 +31,7 @@
 
 ### About Me :
 
-- :earth_americas: Name's Luan Contarin, a programmer from Jundiaí, SP - Brazil.
+- :earth_americas: Name's Luan Contarin, a fullstack programmer from Jundiaí, SP - Brazil.
 - :mortar_board: I'm currently taking a Computer Science course at University Padre Anchieta.
 - :rocket: Currently working at CIJUN as an Software Developer intern.
 - :zap: My hobbies are watching animes/video games and learning programming.
