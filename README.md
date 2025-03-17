@@ -28,7 +28,7 @@
 
 ---
 
-### About Me :
+### About Me
 
 - :earth_americas: Name's Luan Contarin, a fullstack programmer from Jundiai, SP - Brazil.
 - :mortar_board: I'm currently taking a Computer Science course at University Padre Anchieta.
@@ -44,14 +44,8 @@
 
 ---
 
-### Technologies :
+### Technologies
 
 <div>
-  <img src="https://icongr.am/devicon/angularjs-original.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/csharp-original.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/html5-original.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/css3-original.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=62&color=currentColor" title="Git" **alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=git,dotnet,cs,angular,azure,gcp,bootstrap,nodejs,postman" />
 </div>
